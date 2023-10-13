@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+Pillow
+transformers
+tqdm
+pathlib
+annoy
+scipy
